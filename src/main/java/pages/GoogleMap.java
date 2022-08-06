@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class GoogleMap {
+	//Nikhil
 	
 	@FindBy(id="searchboxinput")
 	private WebElement place;
